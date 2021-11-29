@@ -1,2 +1,5 @@
 # react-starter-kit
- react-boilerplates-and-starter-kits-for-developers
+
+ React boilerplates for developers
+ 
+ Pre-existing code that you can launch to automate your repetitive tasks. 
